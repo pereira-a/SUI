@@ -18,3 +18,4 @@
 /Libs/AceSerializer-3.0/**
 .DS_Store
 Modules/.DS_Store
+.release
